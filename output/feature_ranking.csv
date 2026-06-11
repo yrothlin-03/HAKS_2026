@@ -1,0 +1,34 @@
+Feature,Importance,Category,Rank,Cumulative_Importance,Importance_Percentage,Cumulative_Percentage
+total_parking_minutes,0.066904016,Parking Time,1,0.066904016,6.6904016,6.6904016
+carbon_monoxide_mass_mixing_ratio,0.044743862,Chemical Compounds,2,0.111647874,4.474386,11.164787
+ozone_mass_mixing_ratio,0.042207114,Chemical Compounds,3,0.153855,4.220711,15.385498
+ethane,0.040170763,Other,4,0.19402575,4.0170765,19.402575
+sulphur_dioxide_mass_mixing_ratio,0.03783339,Chemical Compounds,5,0.23185915,3.7833388,23.185913
+hydrophilic_black_carbon_aerosol_mixing_ratio,0.036669202,Aerosols,6,0.26852834,3.6669202,26.852833
+hno3,0.036363855,Other,7,0.30489218,3.6363854,30.489218
+sulphate_aerosol_mixing_ratio,0.034353454,Aerosols,8,0.33924565,3.4353454,33.924564
+c3h8,0.033937372,Other,9,0.373183,3.3937373,37.318302
+hydrophilic_organic_matter_aerosol_mixing_ratio,0.032606732,Aerosols,10,0.40578973,3.2606733,40.578976
+nitrogen_dioxide_mass_mixing_ratio,0.031394973,Chemical Compounds,11,0.4371847,3.1394973,43.71847
+sea_salt_aerosol_003_05_mixing_ratio,0.0300648,Aerosols,12,0.46724948,3.00648,46.724953
+hydrophobic_organic_matter_aerosol_mixing_ratio,0.029636458,Aerosols,13,0.49688596,2.9636457,49.6886
+metar_visibility_mi,0.0291049,METAR (Weather),14,0.52599084,2.91049,52.59909
+metar_temperature_c,0.028448703,METAR (Weather),15,0.55443954,2.8448703,55.443962
+hydrophobic_black_carbon_aerosol_mixing_ratio,0.028186915,Aerosols,16,0.58262646,2.8186915,58.262653
+metar_dew_point_c,0.027283652,METAR (Weather),17,0.60991013,2.7283652,60.99102
+specific_humidity,0.027210534,Atmospheric Conditions,18,0.63712066,2.7210534,63.712074
+sea_salt_aerosol_05_5_mixing_ratio,0.02685354,Aerosols,19,0.6639742,2.685354,66.39743
+formaldehyde,0.0268332,Other,20,0.6908074,2.68332,69.08075
+metar_hour_precipitation,0.026255382,METAR (Weather),21,0.7170628,2.625538,71.70629
+sea_salt_aerosol_5_20_mixing_ratio,0.02610672,Aerosols,22,0.7431695,2.610672,74.31696
+isoprene,0.02585323,Other,23,0.7690227,2.5853229,76.90228
+h2o2,0.02510621,Other,24,0.7941289,2.510621,79.4129
+oh,0.025059093,Other,25,0.819188,2.5059092,81.918816
+metar_wind_speed_kn,0.025032049,METAR (Weather),26,0.84422004,2.5032048,84.42202
+metar_relative_humidity,0.023515515,METAR (Weather),27,0.86773556,2.3515515,86.773575
+organic_nitrates,0.023492739,Other,28,0.8912283,2.349274,89.12285
+dust_aerosol_003_055_mixing_ratio,0.023486732,Aerosols,29,0.91471505,2.348673,91.47152
+dust_aerosol_09_20_mixing_ratio,0.021719174,Aerosols,30,0.9364342,2.1719174,93.64344
+temperature,0.021645619,Atmospheric Conditions,31,0.9580798,2.1645617,95.808
+nitrogen_monoxide_mass_mixing_ratio,0.021511776,Chemical Compounds,32,0.9795916,2.1511776,97.959175
+dust_aerosol_055_09_mixing_ratio,0.020408327,Aerosols,33,0.99999994,2.0408328,100.00001
